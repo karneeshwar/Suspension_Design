@@ -1,3 +1,4 @@
+%% Solving 1DOF system with forced excitation using analytical method
 %% 1.) Definitions
 %% 1.) -Parameter definition
 mass                       = 750;                 % Mass of the body [kg]
