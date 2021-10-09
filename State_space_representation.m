@@ -1,3 +1,4 @@
+%% Solving 1DOF problem using space state representation
 %% 1.) Definitions
 %% 1.) -Parameter definition
 mass                       = 750;                 % Mass of the body [kg]
